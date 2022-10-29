@@ -1,0 +1,48 @@
+* {
+  font-family: "Lobster", cursive;
+}
+
+body {
+  background-image: url("https://img.freepik.com/vetores-premium/fundo-de-futebol-ou-futebol-com-bola-grande-em-cores-verdes_444390-10200.jpg?w=900");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.btn {
+  top: 30px;
+  float: right;
+  position: sticky;
+  font-size: 25px;
+  height: 60px;
+  width: 220px;
+  background-image: linear-gradient(to top, #f4fe4e 0%, #f1ff00 100%);
+  border: #5dd31e 4px solid;
+  border-radius: 20px;
+  color: #5dd31e;
+}
+
+.btn:hover {
+  background-image: linear-gradient(to top, #08c5ff 0%, #1e14b4 100%);
+}
+
+body h1 {
+  text-shadow: 10px 10px 10px #ffe400;
+  color: #147600;
+  font-size: 44px;
+  -webkit-text-stroke-width: 0.1px;
+  -webkit-text-stroke-color: #ffe400;
+}
+
+body h1 {
+  text-shadow: 10px 10px 10px #ffe400;
+  color: #147600;
+  font-size: 44px;
+  -webkit-text-stroke-width: 0.1px;
+  -webkit-text-stroke-color: #ffe400;
+}
+
+hr {
+  border: 2px dashed #1e14b4;
+}

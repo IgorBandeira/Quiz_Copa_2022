@@ -1,0 +1,39 @@
+* {
+  font-family: "Lobster", cursive;
+}
+
+body {
+  background-image: url("../imagens/taca.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.btn {
+  top: 22px;
+  float: right;
+  position: sticky;
+  font-size: 25px;
+  height: 60px;
+  width: 250px;
+  background-image: linear-gradient(to top, #6795f8 0%, #0051fe 100%);
+  border: #1a9b00 4px solid;
+  border-radius: 20px;
+  color: #fff;
+}
+
+.btn:hover {
+  background-image: linear-gradient(to top, #e3fc2e 0%, #6fd800 100%);
+}
+
+.container {
+  float: right;
+  font-size: 20px;
+  margin-top: 10%;
+  margin-right: -15%;
+  text-shadow: 10px 10px 10px #147600;
+  color: #ffe400;
+  -webkit-text-stroke-width: 0.5px;
+  -webkit-text-stroke-color: green;
+}

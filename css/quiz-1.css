@@ -1,0 +1,65 @@
+* {
+  font-family: "Lobster", cursive;
+}
+
+body {
+  background-image: url(../imagens/selecao.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin-left: 25%;
+  color: rgb(30, 105, 0);
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #fff;
+  font-size: 24px;
+}
+
+body .btn {
+  top: 22px;
+  margin-left: 5px;
+  float: right;
+  position: sticky;
+  font-size: 25px;
+  height: 60px;
+  width: 240px;
+  background-image: linear-gradient(to top, #f4fe4e 0%, #f1ff00 100%);
+  border: #5dd31e 4px solid;
+  border-radius: 20px;
+  color: #5dd31e;
+  -webkit-text-stroke-width: 0;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+}
+
+body h1 {
+  text-shadow: 10px 10px 10px #ffe400;
+  color: #147600;
+  font-size: 44px;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #ffe400;
+}
+
+body label {
+  color: #3383ff;
+  font-weight: bold;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #fff;
+}
+
+.btnn {
+  height: 30px;
+  width: 180px;
+  margin-top: 10px;
+  background-image: linear-gradient(to top, #33dd23 0%, #0b8132 100%);
+  border: #ffe400 solid 4px;
+  border-radius: 20px;
+  color: #fff;
+}
+
+.btnn:hover {
+  background-image: linear-gradient(to top, #08c5ff 0%, #1e14b4 100%);
+}
