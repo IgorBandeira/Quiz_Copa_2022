@@ -13,7 +13,7 @@ São perguntas focadas em nossa seleção brasileira nas edições de Copa do Mu
 Esta também é uma forma de torcer para nossa seleção, de deixar uma mensagem de incentivo.
 <br/>
 # Que o HEXA venha!!!
-<br/>
+<strong>Link para jogar:<strong/> https://copa-2022.herokuapp.com/index.php
 <br/>
 <div align="center"> 
 <img src="https://user-images.githubusercontent.com/106918230/198837763-6f14c7f9-4999-404e-b974-61fa3b3d0839.png"/>
