@@ -37,3 +37,9 @@ body {
   -webkit-text-stroke-width: 0.5px;
   -webkit-text-stroke-color: green;
 }
+
+@media (max-width: 785px) {
+  .container {
+    margin-right: -5%;
+  }
+}

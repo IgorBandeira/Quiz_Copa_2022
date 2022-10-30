@@ -77,3 +77,45 @@ button:hover {
 .imagem {
   text-align: center;
 }
+
+@media (max-width: 500px) and (min-width: 450px) {
+  button {
+    margin-left: 29%;
+  }
+}
+
+@media (max-width: 449px) and (min-width: 420px) {
+  button {
+    margin-left: 27%;
+  }
+}
+
+@media (max-width: 419px) and (min-width: 400px) {
+  button {
+    margin-left: 25%;
+  }
+}
+
+@media (max-width: 399px) and (min-width: 376px) {
+  button {
+    margin-left: 23%;
+  }
+}
+
+@media (max-width: 375px) and (min-width: 360px) {
+  button {
+    margin-left: 20%;
+  }
+}
+
+@media (max-width: 359px) and (min-width: 340px) {
+  button {
+    margin-left: 18%;
+  }
+}
+
+@media (max-width: 339px) and (min-width: 320px) {
+  button {
+    margin-left: 15%;
+  }
+}
