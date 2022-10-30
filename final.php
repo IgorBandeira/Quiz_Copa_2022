@@ -12,7 +12,7 @@
 </head>
 
 <body>
-    <form action="jogo.php" method="post">
+    <form action="index.php" method="post">
         <button class="btn" type="submit">RETORNAR AO JOGO</button>
         <div class="container">
             <h1>VAMOS JUNTOS<br>
