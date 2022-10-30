@@ -40,6 +40,6 @@ body {
 
 @media (max-width: 785px) {
   .container {
-    margin-right: -5%;
+    margin-right: 5%;
   }
 }

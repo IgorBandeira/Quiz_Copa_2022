@@ -119,3 +119,15 @@ button:hover {
     margin-left: 15%;
   }
 }
+
+@media (max-width: 319px) and (min-width: 300px) {
+  button {
+    margin-left: 12%;
+  }
+}
+
+@media (max-width: 299px) and (min-width: 280px) {
+  button {
+    margin-left: 9%;
+  }
+}
