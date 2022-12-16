@@ -15,7 +15,7 @@ Esta também é uma forma de torcer para nossa seleção, de deixar uma mensagem
 
 # Que o HEXA venha!!!
 
-<strong>Link para jogar:<strong/> https://copamundo2022.000webhostapp.com/
+<strong>Link para jogar:<strong/> https://copamundo2022.000webhostapp.com
 <br/>
 
 <div align="center"> 
